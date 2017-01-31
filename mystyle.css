@@ -1,5 +1,4 @@
  table {
-     border-collapse: collapse;
      width: 100%;
      border: 3px solid black;
  }
@@ -13,7 +12,7 @@
  th,
  td {
      text-align: center;
-     padding: 8px;
+     padding: 10px;
  }
  
  tr:nth-child(even) {
@@ -70,4 +69,10 @@
      font-family: "Raleway", sans-serif background-position: center;
      background-size: cover;
      background-image: url("http://static.wixstatic.com/media/217924_5a74d3e313574760b2658d47695601db~mv2.jpg_srz_1359_764_85_22_0.50_1.20_0.00_jpg_srz")
+ }
+ 
+ #bgc {
+     background-color: saddlebrown;
+     font-size: 30;
+     color: gold;
  }
